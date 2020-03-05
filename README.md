@@ -10,5 +10,4 @@ gogen-avro ./avro record.avsc
 
 ## 2. 在代码中引入生成的 avro 包，示例代码如 main.go 所示
 
-本项目参考了 https://github.com/LioRoger/subscribe_example/blob/master/goimpl/dem
-o.go 的代码
+本项目参考了 https://github.com/LioRoger/subscribe_example 的代码
